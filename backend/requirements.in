@@ -1,0 +1,5 @@
+lanarky
+langchain
+openai
+fastapi
+uvicorn[standard]
