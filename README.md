@@ -72,9 +72,29 @@ OPENAI_API_KEY=YOUR_KEY
 npm run dev
 ```
 
+Note: follow instructions in backend [README](./backend/README.md) to run the backend.
+
 **5. Use It**
 
 You should be able to start chatting.
+
+## Run via Docker Compose
+
+**1. Build Docker Images**
+
+```bash
+docker compose build
+```
+
+**2. Provide OpenAI API Key**
+
+Update `docker-compose.yml` with your OpenAI API Key.
+
+**4. Run Docker Compose**
+
+```bash
+docker compose up
+```
 
 ## Configuration
 
