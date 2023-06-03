@@ -1,6 +1,7 @@
 # Backend
 
-chatbot-ui backend using [Lanarky](https://github.com/ajndkr/lanarky).
+chatbot-ui backend using [FastAPI](https://github.com/tiangolo/fastapi), [LangChain](https://github.com/hwchase17/langchain)
+and [Lanarky](https://github.com/ajndkr/lanarky).
 
 ## Setup Instructions
 
